@@ -28,7 +28,7 @@ This project helps users create, manage, and enhance notes using AI-powered feat
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home](frontend/screenshots/home.png)
+<img width="1905" height="914" alt="image" src="https://github.com/user-attachments/assets/b7d68f4b-5405-4c9f-a4af-6b31537b05c9" />
 
 ### 🔹 Notes & Editor
 <img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/80933c43-38ff-4eae-8613-6c008c02365b" />
@@ -37,14 +37,15 @@ This project helps users create, manage, and enhance notes using AI-powered feat
 ### 🔹 Voice Note Feature
 <img width="1892" height="915" alt="image" src="https://github.com/user-attachments/assets/ff63a445-618c-4ef6-8f7c-40a317eabfa4" />
 
+### 🔹 Flowchart Creator
+<img width="1900" height="911" alt="image" src="https://github.com/user-attachments/assets/c859e012-bb50-41a1-832b-dbd973e4ef1c" />
 
-👉 *(Create a folder `frontend/screenshots/` and add your images there)*
 
 ---
 
 ## 🔗 Live Demo
 
-👉 (Add link if deployed, else write “Coming Soon”)
+ Coming Soon
 
 ---
 
@@ -54,13 +55,6 @@ https://github.com/Minal-115748/AI-Powered-Note-Taking-System
 
 ---
 
-## 👥 Team Members
-
-- Minal Chikane  
-- (Add Member 2)  
-- (Add Member 3)  
-
----
 
 ## ⚙️ How to Run Locally
 
